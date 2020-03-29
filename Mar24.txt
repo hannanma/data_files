@@ -1,0 +1,135 @@
+Long Beach 21
+Pasadena 6
+Agoura Hills 3
+Alhambra 5
+Altadena 5
+Arcadia 4
+Athens 1
+Baldwin Hills 3
+Bellflower 3
+Beverly Hills 12
+Beverlywood 7
+Boyle Heights 5
+Brentwood 31
+Burbank 2
+Calabasas 4
+Canoga Park 2
+Canyon Country 1
+Carson 8
+Castaic 2
+Century City 6
+Century Palms Cove 1
+Cerritos 2
+Claremont 1
+Cloverdale Cochran 2
+Compton 1
+Covina 3
+Crestview 7
+Culver City 7
+Del Rey 3
+Diamond Bar 2
+Downey 1
+Downtown 3
+Duarte 1
+Eagle Rock 2
+East Hollywood 1
+East Los Angeles 3
+Echo Park 2
+El Segundo 2
+Encino 12
+Exposition Park 1
+Florence 1
+Gardena 1
+Glendale 10
+Glendora 1
+Granada Hills 5
+Hancock Park 7
+Harbor Gateway 1
+Harvard Heights 1
+Hawthorne 6
+Highland Park 1
+Hollywood 19
+Hollywood Hills 8
+Hyde Park 1
+Inglewood 5
+Koreatown 5
+La Canada Flintridge 2
+La Mirada 3
+La Puente 1
+La Verne 2
+Lake Balboa 2
+Lakewood 3
+Lancaster 8
+Lawndale 2
+Lincoln Heights 1
+Lomita 9
+Los Feliz 2
+Lynwood 2
+Manhattan Beach 11
+Mar Vista 6
+Melrose 26
+Miracle Mile 7
+Monterey Park 3
+Mt. Washington 1
+North Hollywood 10
+Northridge 2
+Norwalk 1
+Pacific Palisades 9
+Palmdale 2
+Palms 6
+Paramount 2
+Park La Brea 8
+Pico 1
+Pico Rivera 1
+Playa Vista 4
+Porter Ranch 1
+Rancho Palos Verdes 3
+Redondo Beach 7
+Reseda 4
+San Dimas 1
+San Fernando 2
+San Gabriel 1
+San Pedro 2
+Santa Clarita 7
+Santa Monica 16
+Santa Monica Mountains 2
+Sherman Oaks 10
+Silverlake 5
+South El Monte 1
+South Gate 1
+South Park 1
+South Pasadena 3
+South Whittier 2
+Stevenson Ranch 2
+Studio City 7
+Sun Valley 2
+Sunland 1
+Sylmar 1
+Tarzana 9
+Temple 1
+Torrance 5
+Tujunga 1
+University Park 1
+Valley Glen 9
+Van Nuys 4
+Venice 8
+Vermont Knolls 1
+Vermont Vista 3
+Vernon Central 1
+Walnut 1
+West Adams 3
+West Covina 1
+West Hills 4
+West Hollywood 31
+West Los Angeles 4
+West Vernon 4
+Westchester 3
+Westlake 1
+Westwood 6
+Whittier 3
+Wholesale District 1
+Willowbrook 1
+Wilmington 4
+Wilshire Center 1
+Winnetka 2
+Woodland Hills 8

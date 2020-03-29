@@ -1,0 +1,141 @@
+Long Beach 28
+Pasadena 7
+Agoura Hills 3
+Alhambra 6
+Altadena 5
+Arcadia 4
+Arleta 1
+Athens 1
+Baldwin Hills 3
+Bell Gardens 3
+Bellflower 7
+Beverly Hills 13
+Beverlywood 8
+Boyle Heights 5
+Brentwood 34
+Burbank 3
+Calabasas 4
+Canoga Park 2
+Canyon Country 1
+Carson 9
+Castaic 2
+Century City 7
+Century Palms 3
+Cerritos 2
+Claremont 1
+Cloverdale 3
+Compton 2
+Covina 3
+Crenshaw District 2
+Crestview 7
+Culver City 6
+Del Rey 5
+Diamond Bar 2
+Downey 5
+Downtown 6
+Duarte 1
+Eagle Rock 2
+East Hollywood 1
+East Los Angeles 3
+Echo Park 4
+El Segundo 2
+Encino 13
+Exposition Park 1
+Florence 4
+Gardena 1
+Glassell Park 1
+Glendale 12
+Glendora 2
+Granada Hills 7
+Hancock Park 8
+Harbor Gateway 2
+Harvard Heights 1
+Hawthorne 8
+Highland Park 2
+Hollywood 23
+Hollywood Hills 8
+Hyde Park 1
+Inglewood 5
+Koreatown 5
+La Canada Flintridge 3
+La Mirada 4
+La Verne 2
+Lake Balboa 2
+Lakewood 4
+Lancaster 13
+Lawndale 1
+Lomita 9
+Los Feliz 3
+Lynwood 3
+Manhattan Beach 17
+Mar Vista 6
+Melrose 33
+Miracle Mile 8
+Monterey Park 4
+Mt. Washington 2
+North Hollywood 11
+Northridge 2
+Norwalk 2
+Pacific Palisades 9
+Palmdale 2
+Palms 8
+Panorama City 1
+Paramount 3
+Park La Brea 8
+Pico 2
+Pico Rivera 1
+Playa Vista 5
+Pomona 1
+Porter Ranch 1
+Rancho Palos Verdes 5
+Redondo Beach 9
+Reseda 5
+San Dimas 1
+San Fernando 3
+San Gabriel 1
+San Pedro 4
+Santa Clarita 10
+Santa Monica 18
+Santa Monica Mountains 3
+Sherman Oaks 12
+Silverlake 6
+South El Monte 3
+South Gate 2
+South Park 1
+South Pasadena 3
+South Whittier 3
+Stevenson Ranch 2
+Studio City 7
+Sun Valley 2
+Sunland 1
+Sylmar 1
+Tarzana 9
+Temple 3
+Torrance 9
+Tujunga 1
+University Park 4
+Valinda 1
+Valley Glen 11
+Van Nuys 4
+Venice 9
+Vermont Knolls 1
+Vermont Vista 3
+Vernon Central 1
+Walnut 1
+Watts 1
+West Adams 4
+West Covina 2
+West Hills 4
+West Hollywood 31
+West Los Angeles 4
+West Vernon 5
+Westchester 5
+Westlake 1
+Westwood 9
+Whittier 3
+Wholesale District 4
+Willowbrook 1
+Wilmington 4
+Wilshire Center 2
+Winnetka 3
+Woodland Hills 11

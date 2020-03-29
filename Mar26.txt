@@ -1,0 +1,160 @@
+Long Beach 41
+Pasadena 9
+Agoura Hills 5
+Alhambra 8
+Altadena 6
+Arcadia 6
+Arleta 2
+Athens 3
+Azusa 1
+Baldwin Hills 4
+Bell 2
+Bell Gardens 3
+Bellflower 8
+Beverly Hills 15
+Beverlywood 10
+Boyle Heights 7
+Brentwood 42
+Burbank 6
+Calabasas 5
+Canoga Park 3
+Canyon Country 1
+Carson 21
+Castaic 2
+Century City 9
+Century Palms 3
+Cerritos 2
+Chatsworth 1
+Claremont 1
+Cloverdale 3
+Compton 5
+Covina 4
+Crenshaw District 2
+Crestview 9
+Culver City 8
+Del Rey 9
+Diamond Bar 2
+Downey 10
+Downtown 7
+Duarte 2
+Eagle Rock 3
+East Hollywood 2
+East Los Angeles 4
+Echo Park 7
+El Segundo 2
+Encino 21
+Exposition Park 2
+Florence 7
+Gardena 4
+Glassell Park 2
+Glendale 23
+Glendora 2
+Granada Hills 8
+Hacienda Heights 2
+Hancock Park 10
+Harbor City 1
+Harbor Gateway 3
+Harvard Heights 2
+Hawthorne 9
+Highland Park 3
+Hollywood 27
+Hollywood Hills 17
+Hyde Park 1
+Inglewood 12
+Koreatown 7
+La Canada Flintridge 6
+La Mirada 5
+La Puente 1
+La Verne 2
+Lake Balboa 3
+Lakewood 7
+Lancaster 16
+Lawndale 2
+Leimert Park 2
+Lincoln Heights 1
+Little Bangladesh 1
+Lomita 12
+Los Feliz 5
+Lynwood 6
+Manhattan Beach 21
+Mar Vista 8
+Maywood 1
+Melrose 47
+Miracle Mile 13
+Monrovia 2
+Montebello 1
+Monterey Park 4
+Mt. Washington 3
+North Hills 1
+North Hollywood 15
+Northridge 4
+Norwalk 9
+Pacific Palisades 12
+Pacoima 1
+Palmdale 2
+Palms 10
+Panorama City 4
+Paramount 4
+Park La Brea 8
+Pico 5
+Pico Rivera 2
+Playa Vista 8
+Pomona 3
+Porter Ranch 2
+Rancho Palos Verdes 6
+Redondo Beach 20
+Reseda 8
+San Dimas 1
+San Fernando 3
+San Gabriel 3
+San Pedro 5
+Santa Clarita 16
+Santa Monica 21
+Santa Monica Mountains 4
+Sherman Oaks 17
+Silverlake 11
+South El Monte 4
+South Gate 4
+South Park 2
+South Pasadena 4
+South Whittier 4
+Stevenson Ranch 3
+Studio City 11
+Sun Valley 2
+Sunland 1
+Sylmar 2
+Tarzana 14
+Temple 6
+Torrance 14
+Tujunga 2
+University Park 6
+Valinda 1
+Valley Glen 12
+Van Nuys 4
+Venice 11
+Vermont Knolls 3
+Vermont Vista 5
+Vernon Central 1
+Walnut 1
+Watts 1
+West Adams 6
+West Covina 4
+West Hills 4
+West Hollywood 35
+West Los Angeles 5
+West Vernon 6
+West Whittier/Los Nietos 1
+Westchester 7
+Westlake 1
+Westwood 11
+Whittier 3
+Wholesale District 6
+Willowbrook 1
+Wilmington 5
+Wilshire Center 2
+Winnetka 5
+Woodland Hills 13
+
+
+
+

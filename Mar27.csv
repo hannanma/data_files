@@ -1,0 +1,336 @@
+city, confirmed cases, heat label
+Long Beach,54,1
+Pasadena,9,1
+Agoura Hills,6,2
+Alhambra,8,2
+Arcadia,6,2
+Artesia,0,1
+Avalon,0,1
+Azusa,1,1
+Baldwin Park,0,1
+Bell,4,1
+Bell Gardens,1,1
+Bellflower,10,3
+Beverly Hills,21,4
+Bradbury,0,1
+Burbank,7,2
+Calabasas,7,2
+Carson,21,4
+Cerritos,1,1
+Claremont,1,1
+Commerce,0,1
+Compton,7,2
+Covina,3,1
+Cudahy,0,1
+Culver City,6,2
+Diamond Bar,2,1
+Downey,12,3
+Duarte,0,1
+El Monte,0,1
+El Segundo,0,1
+Gardena,5,2
+Glendale,29,4
+Glendora,4,1
+Hawaiian Gardens,0,1
+Hawthorne,7,2
+Hermosa Beach,0,1
+Hidden Hills,0,1
+Huntington Park,0,1
+Industry,0,1
+Inglewood,12,3
+Irwindale,0,1
+La Canada Flintridge,5,2
+La Habra Heights,0,1
+La Mirada,5,2
+La Puente,1,1
+La Verne,1,1
+Lakewood,8,2
+Lancaster,18,3
+Lawndale,2,1
+Lomita,0,1
+Long Beach,0,1
+Lynwood,8,2
+Malibu,0,1
+Manhattan Beach,22,4
+Maywood,1,1
+Monrovia,4,1
+Montebello,2,1
+Monterey Park,4,1
+Norwalk,9,2
+Palmdale,4,1
+Palos Verdes Estates,12,3
+Paramount,5,2
+Pasadena,0,1
+Pico Rivera,2,1
+Pomona,4,1
+Rancho Palos Verdes,7,2
+Redondo Beach,23,4
+Rolling Hills,0,1
+Rolling Hills Estates,0,1
+Rosemead,0,1
+San Dimas,1,1
+San Fernando,0,1
+San Gabriel,5,2
+San Marino,0,1
+Santa Clarita,24,4
+Santa Fe Springs,0,1
+Santa Monica,28,4
+Sierra Madre,0,1
+Signal Hill,0,1
+South El Monte,0,1
+South Gate,4,1
+South Pasadena,3,1
+Temple City,0,1
+Torrance,21,4
+Vernon,0,1
+Walnut,1,1
+West Covina,5,2
+West Hollywood,42,6
+Westlake Village,0,1
+Whittier,4,1
+Adams-Normandie,0,1
+Alsace,0,1
+Angelino Heights,0,1
+Arleta,2,1
+Atwater Village,0,1
+Baldwin Hills,5,2
+Bel Air,6,2
+Beverly Crest,14,3
+Beverlywood,8,2
+Boyle Heights,8,2
+Brentwood,30,5
+Brookside,0,1
+Cadillac-Corning,0,1
+Canoga Park,2,1
+Carthay,7,2
+Central,2,1
+Century City,6,2
+Century Palms/Cove,3,1
+Chatsworth,3,1
+Cheviot Hills,0,1
+Chinatown,0,1
+Cloverdale/Cochran,0,1
+Country Club Park,0,1
+Crenshaw District,0,1
+Crestview,7,2
+Del Rey,9,2
+Downtown,8,2
+Eagle Rock,4,1
+East Hollywood,3,1
+Echo Park,0,1
+El Sereno,0,1
+Elysian Park,0,1
+Elysian Valley,0,1
+Encino,23,4
+Exposition,0,1
+Exposition Park,2,1
+Faircrest Heights,0,1
+Figueroa Park Square,0,1
+Florence-Firestone,3,1
+Glassell Park,4,1
+Gramercy Place,0,1
+Granada Hills,8,2
+Green Meadows,0,1
+Hancock Park,14,3
+Harbor City,1,1
+Harbor Gateway,4,1
+Harbor Pines,0,1
+Harvard Heights,0,1
+Harvard Park,1,1
+Highland Park,5,2
+Historic Filipinotown,0,1
+Hollywood,30,5
+Hollywood Hills,19,3
+Hyde Park,2,1
+Jefferson Park,0,1
+Koreatown,7,2
+Lafayette Square,0,1
+Lake Balboa,3,1
+Lakeview Terrace,0,1
+Leimert Park,0,1
+Lincoln Heights,1,1
+Little Armenia,0,1
+Little Bangladesh,2,1
+Little Tokyo,0,1
+Longwood,0,1
+Los Feliz,6,2
+Manchester Square,0,1
+Mandeville Canyon,0,1
+Mar Vista,8,2
+Marina Peninsula,0,1
+Melrose,49,6
+Mid-city,8,2
+Miracle Mile,7,2
+Mission Hills,0,1
+Mt. Washington,0,1
+North Hills,1,1
+North Hollywood,18,3
+Northridge,7,2
+Pacific Palisades,10,3
+Pacoima,2,1
+Palisades Highlands,0,1
+Palms,12,3
+Panorama City,4,1
+Park La Brea,0,1
+Pico-Union,5,2
+Playa Del Rey,0,1
+Playa Vista,5,2
+Porter Ranch,2,1
+Rancho Park,0,1
+Regent Square,0,1
+Reseda,8,2
+Reseda Ranch,0,1
+Reynier Village,0,1
+San Pedro,8,2
+Shadow Hills,0,1
+Sherman Oaks,21,4
+Silverlake,12,3
+South Carthay,5,2
+South Park,3,1
+St Elmo Village,0,1
+Studio City,10,3
+Sun Valley,3,1
+Sunland,0,1
+Sycamore Square,0,1
+Sylmar,4,1
+Tarzana,17,3
+Temple-Beaudry,5,2
+Thai Town,0,1
+Toluca Lake,0,1
+Toluca Terrace,0,1
+Toluca Woods,0,1
+Tujunga,2,1
+University Hills,0,1
+University Park,4,1
+Valley Glen,2,1
+Valley Village,13,3
+Van Nuys,4,1
+Venice,11,3
+Vermont Knolls,0,1
+Vermont Square,0,1
+Vermont Vista,2,1
+Vernon Central,3,1
+Victoria Park,0,1
+View Heights,0,1
+Watts,1,1
+Wellington Square,0,1
+West Adams,6,2
+West Hills,5,2
+West Los Angeles,9,2
+West Vernon,6,2
+Westchester,8,2
+Westlake,1,1
+Westwood,16,3
+Wholesale District,8,2
+Wilmington,5,2
+Wilshire Center,4,1
+Winnetka,3,1
+Woodland Hills,14,3
+Acton,0,1
+Agua Dulce,0,1
+Altadena,9,2
+Anaverde,0,1
+Angeles National Forest,0,1
+Arcadia,0,1
+Athens Village,0,1
+Athens-Westmont,5,2
+Avocado Heights,0,1
+Azusa,0,1
+Bassett,0,1
+Bouquet Canyon,0,1
+Bradbury,0,1
+Canyon Country,0,1
+Castaic,3,1
+Cerritos,0,1
+Claremont,0,1
+Covina,0,1
+Covina (Charter Oak),0,1
+Del Aire,0,1
+Del Rey,0,1
+Del Sur,0,1
+Desert View Highlands,0,1
+Duarte,0,1
+East Covina,0,1
+East La Mirada,0,1
+East Lancaster,0,1
+East Los Angeles,6,2
+East Pasadena,0,1
+East Rancho Dominguez,0,1
+East Whittier,0,1
+El Camino Village,0,1
+El Monte,0,1
+Elizabeth Lake,0,1
+Florence-Firestone,0,1
+Glendora,0,1
+Hacienda Heights,2,1
+Hawthorne,0,1
+Hi Vista,0,1
+Kagel/Lopez Canyons,0,1
+La Crescenta-Montrose,0,1
+La Habra Heights,0,1
+La Rambla,0,1
+La Verne,0,1
+Ladera Heights,0,1
+Lake Hughes,0,1
+Lake Los Angeles,0,1
+Lake Manor,0,1
+Lakewood,0,1
+Lennox,0,1
+Leona Valley,0,1
+Littlerock,0,1
+Littlerock/Juniper Hills,0,1
+Littlerock/Pearblossom,0,1
+Llano,0,1
+Long Beach,0,1
+Marina del Rey,0,1
+Monrovia,0,1
+Newhall,0,1
+North Lancaster,0,1
+North Whittier,0,1
+Northeast San Gabriel,0,1
+Padua Hills,0,1
+Palmdale,0,1
+Palos Verdes Peninsula,0,1
+Pearblossom/Llano,0,1
+Pellissier Village,0,1
+Placerita Canyon,0,1
+Pomona,0,1
+Quartz Hill,0,1
+Rancho Dominguez,0,1
+Roosevelt,0,1
+Rosewood,0,1
+Rosewood/East Gardena,0,1
+Rosewood/West Rancho Dominguez,0,1
+Rowland Heights,1,1
+San Jose Hills,0,1
+San Pasqual,0,1
+Sand Canyon,0,1
+Santa Catalina Island,0,1
+Santa Monica Mountains,0,1
+Saugus,0,1
+Saugus/Canyon Country,0,1
+South Antelope Valley,0,1
+South El Monte,0,1
+South San Gabriel,0,1
+South Whittier,3,1
+Southeast Antelope Valley,0,1
+Stevenson Ranch,0,1
+Sun Village,0,1
+Sunrise Village,0,1
+Twin Lakes/Oat Mountain,0,1
+Val Verde,0,1
+Valencia,0,1
+Valinda,0,1
+View Park/Windsor Hills,0,1
+Walnut Park,0,1
+West Antelope Valley,0,1
+West Carson,5,2
+West LA,0,1
+West Puente Valley,0,1
+West Rancho Dominguez,0,1
+West Whittier/Los Nietos,0,1
+Westfield/Academy Hills,0,1
+Westhills,0,1
+White Fence Farms,0,1
+Whittier,0,1
+Willowbrook,1,1

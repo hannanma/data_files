@@ -1,0 +1,335 @@
+Long Beach  0 54
+Pasadena  0 9
+Agoura Hills 6
+Alhambra 8
+Arcadia 6
+Artesia  0
+Avalon 0
+Azusa 1
+Baldwin Park 0
+Bell 4
+Bell Gardens 1
+Bellflower 10
+Beverly Hills 21
+Bradbury 0
+Burbank 7
+Calabasas 7
+Carson 21
+Cerritos 1
+Claremont 1
+Commerce 0
+Compton 7
+Covina 3
+Cudahy  0
+Culver City 6
+Diamond Bar 2
+Downey 12
+Duarte  0
+El Monte 0
+El Segundo  0
+Gardena 5
+Glendale 29
+Glendora 4
+Hawaiian Gardens  0
+Hawthorne 7
+Hermosa Beach  0
+Hidden Hills 0
+Huntington Park 0
+Industry 0
+Inglewood 12
+Irwindale 0
+La Canada Flintridge 5
+La Habra Heights  0
+La Mirada 5
+La Puente 1
+La Verne 1
+Lakewood 8
+Lancaster 18
+Lawndale 2
+Lomita 0
+Long Beach 0
+Lynwood 8
+Malibu  0
+Manhattan Beach 22
+Maywood 1
+Monrovia 4
+Montebello 2
+Monterey Park 4
+Norwalk 9
+Palmdale 4
+Palos Verdes Estates 12
+Paramount 5
+Pasadena 0
+Pico Rivera 2
+Pomona 4
+Rancho Palos Verdes 7
+Redondo Beach 23
+Rolling Hills 0
+Rolling Hills Estates  0
+Rosemead 0
+San Dimas 1
+San Fernando 0
+San Gabriel 5
+San Marino  0
+Santa Clarita 24
+Santa Fe Springs 0
+Santa Monica 28
+Sierra Madre 0
+Signal Hill  0
+South El Monte 0
+South Gate 4
+South Pasadena 3
+Temple City 0
+Torrance 21
+Vernon 0
+Walnut 1
+West Covina 5
+West Hollywood 42
+Westlake Village 0
+Whittier 4
+Adams-Normandie  0
+Alsace  0
+Angelino Heights 0
+Arleta 2
+Atwater Village 0
+Baldwin Hills 5
+Bel Air 6
+Beverly Crest 14
+Beverlywood 8
+Boyle Heights 8
+Brentwood 30
+Brookside 0
+Cadillac-Corning 0
+Canoga Park 2
+Carthay 7
+Central 2
+Century City 6
+Century Palms/Cove 3
+Chatsworth 3
+Cheviot Hills  0
+Chinatown 0
+Cloverdale/Cochran  0
+Country Club Park  0
+Crenshaw District  0
+Crestview 7
+Del Rey 9
+Downtown 8
+Eagle Rock 4
+East Hollywood 3
+Echo Park  0
+El Sereno 0
+Elysian Park  0
+Elysian Valley  0
+Encino 23
+Exposition 0
+Exposition Park 2
+Faircrest Heights 0
+Figueroa Park Square 0
+Florence-Firestone 3
+Glassell Park 4
+Gramercy Place  0
+Granada Hills 8
+Green Meadows  0
+Hancock Park 14
+Harbor City 1
+Harbor Gateway 4
+Harbor Pines 0
+Harvard Heights  0
+Harvard Park 1
+Highland Park 5
+Historic Filipinotown 0
+Hollywood 30
+Hollywood Hills 19
+Hyde Park 2
+Jefferson Park 0
+Koreatown 7
+Lafayette Square  0
+Lake Balboa 3
+Lakeview Terrace  0
+Leimert Park  0
+Lincoln Heights 1
+Little Armenia 0
+Little Bangladesh 2
+Little Tokyo 0
+Longwood 0
+Los Feliz 6
+Manchester Square  0
+Mandeville Canyon  0
+Mar Vista 8
+Marina Peninsula  0
+Melrose 49
+Mid-city 8
+Miracle Mile 7
+Mission Hills  0
+Mt. Washington  0
+North Hills 1
+North Hollywood 18
+Northridge 7
+Pacific Palisades 10
+Pacoima 2
+Palisades Highlands 0
+Palms 12
+Panorama City 4
+Park La Brea  0
+Pico-Union 5
+Playa Del Rey  0
+Playa Vista 5
+Porter Ranch 2
+Rancho Park  0
+Regent Square 0
+Reseda 8
+Reseda Ranch  0
+Reynier Village  0
+San Pedro 8
+Shadow Hills  0
+Sherman Oaks 21
+Silverlake 12
+South Carthay 5
+South Park 3
+St Elmo Village 0
+Studio City 10
+Sun Valley 3
+Sunland 0
+Sycamore Square 0
+Sylmar 4
+Tarzana 17
+Temple-Beaudry 5
+Thai Town  0
+Toluca Lake  0
+Toluca Terrace 0
+Toluca Woods 0
+Tujunga 2
+University Hills 0
+University Park 4
+Valley Glen 2
+Valley Village 13
+Van Nuys 4
+Venice 11
+Vermont Knolls  0
+Vermont Square  0
+Vermont Vista 2
+Vernon Central 3
+Victoria Park  0
+View Heights 0
+Watts 1
+Wellington Square 0
+West Adams 6
+West Hills 5
+West Los Angeles 9
+West Vernon 6
+Westchester 8
+Westlake 1
+Westwood 16
+Wholesale District 8
+Wilmington 5
+Wilshire Center 4
+Winnetka 3
+Woodland Hills 14
+Acton 0
+Agua Dulce 0
+Altadena 9
+Anaverde 0
+Angeles National Forest 0
+Arcadia 0
+Athens Village 0
+Athens-Westmont 5
+Avocado Heights 0
+Azusa 0
+Bassett 0
+Bouquet Canyon 0
+Bradbury 0
+Canyon Country  0
+Castaic 3
+Cerritos 0
+Claremont 0
+Covina  0
+Covina (Charter Oak) 0
+Del Aire 0
+Del Rey 0
+Del Sur 0
+Desert View Highlands 0
+Duarte 0
+East Covina 0
+East La Mirada 0
+East Lancaster 0
+East Los Angeles 6
+East Pasadena 0
+East Rancho Dominguez 0
+East Whittier  0
+El Camino Village 0
+El Monte 0
+Elizabeth Lake 0
+Florence-Firestone 0
+Glendora 0
+Hacienda Heights 2
+Hawthorne  0
+Hi Vista 0
+Kagel/Lopez Canyons 0
+La Crescenta-Montrose 0
+La Habra Heights  0
+La Rambla  0
+La Verne  0
+Ladera Heights 0
+Lake Hughes 0
+Lake Los Angeles 0
+Lake Manor 0
+Lakewood 0
+Lennox  0
+Leona Valley 0
+Littlerock 0
+Littlerock/Juniper Hills 0
+Littlerock/Pearblossom 0
+Llano 0
+Long Beach 0
+Marina del Rey  0
+Monrovia  0
+Newhall 0
+North Lancaster 0
+North Whittier 0
+Northeast San Gabriel 0
+Padua Hills 0
+Palmdale 0
+Palos Verdes Peninsula 0
+Pearblossom/Llano 0
+Pellissier Village 0
+Placerita Canyon 0
+Pomona 0
+Quartz Hill 0
+Rancho Dominguez 0
+Roosevelt 0
+Rosewood 0
+Rosewood/East Gardena 0
+Rosewood/West Rancho Dominguez 0
+Rowland Heights 1
+San Jose Hills 0
+San Pasqual 0
+Sand Canyon 0
+Santa Catalina Island 0
+Santa Monica Mountains 0
+Saugus 0
+Saugus/Canyon Country 0
+South Antelope Valley 0
+South El Monte 0
+South San Gabriel 0
+South Whittier 3
+Southeast Antelope Valley 0
+Stevenson Ranch  0
+Sun Village 0
+Sunrise Village 0
+Twin Lakes/Oat Mountain 0
+Val Verde 0
+Valencia  0
+Valinda  0
+View Park/Windsor Hills 0
+Walnut Park 0
+West Antelope Valley 0
+West Carson 5
+West LA  0
+West Puente Valley 0
+West Rancho Dominguez 0
+West Whittier/Los Nietos 0
+Westfield/Academy Hills 0
+Westhills 0
+White Fence Farms 0
+Whittier 0
+Willowbrook 1

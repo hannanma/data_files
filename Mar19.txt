@@ -1,0 +1,74 @@
+Long Beach   12
+Pasadena   2
+Alhambra   2
+Arcadia  2
+Baldwin Hills  1
+Beverly Hills   4
+Beverlywood  2
+Boyle Heights  5
+Brentwood   13
+Burbank  1
+Calabasas   1
+Carson   1
+Castaic  1
+Covina   1
+Crestview  1
+Culver City  3
+Diamond Bar  2
+Eagle Rock   1
+East Los Angeles  1
+Echo Park   1
+Encino   6
+Gardena  1
+Glendale   4
+Granada Hills  4
+Hancock Park   2
+Hawthorne   1
+Hollywood Hills   2
+Hollywood   5
+Inglewood   2
+Koreatown   1
+La Mirada   3
+Lawndale  1
+Lomita   5
+Lynwood   1
+Manhattan Beach   5
+Mar Vista   1
+Melrose   11
+Monterey Park  2
+North Hollywood  3
+Northridge  1
+Pacific Palisades  5
+Palms 1
+Park LaBrea   3
+Playa Vista   1
+Reseda  1
+San Dimas   1
+San Pedro  1
+Santa Clarita   3
+Santa Monica Mountains   2
+Santa Monica  2
+Sherman Oaks   5
+South El Monte  1
+South Pasadena   1
+Stevenson Ranch  1
+Studio City   3
+Sylmar   1
+Tarzana  5
+Torrance  2
+Tujunga  1
+University Park   1
+Valley Glen  1
+Van Nuys  1
+Venice   4
+Vermont Knolls   1
+Walnut   1
+West Adams   1
+West Hills  3
+West Hollywood   12
+West Los Angeles  2
+West Vernon   1
+Westchester  3
+Westwood   2
+Whittier  2
+Woodland Hills  3
